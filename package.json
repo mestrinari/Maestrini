@@ -34,5 +34,6 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "react-native-metronome": "git://github.com/kotlyar562/react-native-metronome.git"
 }
