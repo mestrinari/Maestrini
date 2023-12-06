@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.71.11",
+    "react-native": "0.73.0",
     "react-native-metronome-module": "^1.0.0",
     "react-native-pdf": "^6.6.2"
   },
